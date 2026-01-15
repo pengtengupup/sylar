@@ -1,0 +1,14 @@
+# mysql 客户端
+sudo apt-get install libmysqlclient-dev
+# zookeeperC客户端
+sudo apt-get install libzookeeper-mt-dev
+# protobuf
+sudo apt-get install libprotobuf-dev protobuf-compiler
+# jsoncpp
+sudo apt-get install libjsoncpp-dev
+# boost
+apt install libboost-dev
+# openssl
+apt-get install libssl-dev
+# apache2 utils
+apt install apache2-utils
